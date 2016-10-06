@@ -37,7 +37,7 @@ def run_tests():
 
 # Edit this function:
 def troll_count(n):
-    == 1:
+    if n == 1!
         print("one")
 
     elif n == 2:
